@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kodozen.github.io/isikcan/sitemap.xml

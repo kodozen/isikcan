@@ -1,0 +1,245 @@
+{
+  "marka": {
+    "ad": "Işıkcan Flora Shop",
+    "telefon": "0533 859 20 51",
+    "tel_href": "+905338592051",
+    "whatsapp": "905338592051",
+    "instagram": "isikcanflorashop",
+    "adres_satir1": "Girne Caddesi, İplik Pazarı",
+    "adres_satir2": "Vakıflar Pasajı (Eski Cemaat Meclisi) No: 2",
+    "adres_sehir": "Lefkoşa, KKTC",
+    "tarif": "Girne Caddesi'nde, İş Bankası'nın yanı",
+    "harita": "https://www.google.com/maps/search/?api=1&query=I%C5%9F%C4%B1kcan+Flora+Shop+Lefko%C5%9Fa",
+    "kargo_ic": 200,
+    "kargo_dis": 400
+  },
+  "kategoriler": [
+    {"k": "buket", "ad": "Buketler", "foto": "bes-buket", "metin": "Kasımpatı, lilyum, gül ve mevsim çiçekleri"},
+    {"k": "kutu", "ad": "Kutu ve tasarım", "foto": "harf-kutusu-1", "metin": "Harf kutusu, şeffaf çanta, çekmeceli kutular"},
+    {"k": "orkide", "ad": "Orkideler", "foto": "mavi-orkide-1", "metin": "Tek dal, çift dal ve mini orkideler"},
+    {"k": "saksi", "ad": "Saksı ve kaktüs", "foto": "saksi-kasimpati-1", "metin": "Saksı çiçekleri, tasarım saksıda kaktüsler"},
+    {"k": "ayicikli", "ad": "Ayıcıklı hediyeler", "foto": "posta-kutusu", "metin": "Peluş ayıcıklı kutu ve aranjmanlar"}
+  ],
+  "urunler": [
+    {
+      "slug": "mavi-kasimpati-buketi", "ad": "Mavi kasımpatı buketi", "kat": ["buket"],
+      "fotolar": ["mavi-kasimpati-1", "mavi-kasimpati-2"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "Mavi ve turkuaz tonlarında kasımpatılar, açık mavi ambalajda. Kasımpatı sezonunun en çok sorulan rengi.",
+      "alt": "Açık mavi ambalajda mavi ve turkuaz kasımpatı buketi, Lefkoşa'da taş kaldırımın önünde"
+    },
+    {
+      "slug": "pembe-sari-kasimpati-buketi", "ad": "Pembe sarı kasımpatı buketi", "kat": ["buket"],
+      "fotolar": ["pembe-sari-kasimpati-1", "pembe-sari-kasimpati-2"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "İri sarı ve pembe kasımpatılar, beyaz ambalajda. Açık renkli, ferah bir buket.",
+      "alt": "Beyaz ambalajda sarı ve pembe kasımpatı buketi, demir parmaklıklı bahçe duvarının üstünde"
+    },
+    {
+      "slug": "lila-kasimpati-buketi", "ad": "Lila kasımpatı buketi", "kat": ["buket"],
+      "fotolar": ["lila-kasimpati-1", "lila-kasimpati-2"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "Lila ve pembe top kasımpatılar, fuşya ve mor iki katlı ambalajda.",
+      "alt": "Fuşya ve mor ambalajda lila top kasımpatı buketi, sokaktaki ahşap bankın önünde"
+    },
+    {
+      "slug": "pembe-kasimpati-buketi", "ad": "Pembe kasımpatı buketi", "kat": ["buket"],
+      "fotolar": ["pembe-kasimpati-1"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "Açık pembe top kasımpatılar, fuşya ambalajda. Dolgun ve yuvarlak bağlanıyor.",
+      "alt": "Fuşya ambalajda pembe top kasımpatı buketi, ahşap bankın üstünde"
+    },
+    {
+      "slug": "somon-kasimpati-buketi", "ad": "Somon kasımpatı buketi", "kat": ["buket"],
+      "fotolar": ["somon-kasimpati-1", "somon-kasimpati-2"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "Somon ve turuncu tonlarında kasımpatılar, somon rengi ambalajda. Sonbahar buketi.",
+      "alt": "Somon rengi ambalajda turuncu ve somon kasımpatı buketi, öğle güneşinde"
+    },
+    {
+      "slug": "lilyum-buketi", "ad": "Lilyum buketi", "kat": ["buket"],
+      "fotolar": ["lilyum-1", "lilyum-2", "lilyum-3"], "fiyat": null, "tarih": "Eylül 2026",
+      "metin": "Pembe lilyum ve kasımpatı, bej ambalajda. Lilyum kokuludur; tomurcukları evde günlerce açmaya devam eder.",
+      "alt": "Bej ambalajda pembe lilyum buketi"
+    },
+    {
+      "slug": "kraft-mevsim-buketi", "ad": "Kraft kâğıtta mevsim buketi", "kat": ["buket"],
+      "fotolar": ["sokak-buket"], "fiyat": null, "tarih": "Ağustos 2026",
+      "metin": "Mevsim çiçeklerinden karışık buket; kraft kâğıtta, desenli kurdeleyle. İçindeki çiçekler mevsime göre değişir.",
+      "alt": "Kraft kâğıda sarılı karışık mevsim buketi, Lefkoşa Surlariçi'nde bir sokakta havaya kaldırılmış"
+    },
+    {
+      "slug": "pastel-pembe-buket", "ad": "Pastel pembe buket", "kat": ["buket"],
+      "fotolar": ["buyuk-han"], "fiyat": null, "tarih": "Eylül 2026",
+      "metin": "Pembe güller ve mevsim çiçekleri, pembe ambalajda. Fotoğraf Büyük Han'ın avlusunda çekildi.",
+      "alt": "Pembe ambalajda pastel buket, Büyük Han'ın avlusunda ahşap masanın üstünde"
+    },
+    {
+      "slug": "isikli-kelebek-buketi", "ad": "Işıklı kelebek buketi", "kat": ["buket"],
+      "fotolar": ["isikli-kelebek-1", "isikli-kelebek-2"], "fiyat": null, "tarih": "Eylül 2026",
+      "metin": "Kelebek detaylı, içinde renkli LED ışık olan tasarım buket; siyah ambalajda. Pembe ve beyaz seçeneği var.",
+      "icerik": ["Renkli LED ışık", "Kelebek detayları", "Siyah ambalaj"],
+      "alt": "Siyah ambalajda pembe ışıklı kelebek buketi, yeşil panjurlu evlerin önünde"
+    },
+    {
+      "slug": "gazete-sargili-buket", "ad": "Gazete sargılı buket", "kat": ["buket"],
+      "fotolar": ["gazete-buket-1"], "fiyat": null, "tarih": "Temmuz 2026",
+      "metin": "Pembe lilyum ve şakayık, gazete desenli kâğıtta. Sade bir sunum isteyenler için.",
+      "alt": "Gazete desenli kâğıda sarılı pembe lilyum ve şakayık buketi, sokaktaki bankın üstünde"
+    },
+    {
+      "slug": "fusya-sargili-renkli-buket", "ad": "Fuşya sargılı renkli buket", "kat": ["buket"],
+      "fotolar": ["fusya-buket-1"], "fiyat": null, "tarih": "Ağustos 2026",
+      "metin": "Karanfil ve papatyalarla renkli bir buket, fuşya ambalajda.",
+      "alt": "Fuşya ambalajda turuncu karanfil ve beyaz papatyalı renkli buket"
+    },
+    {
+      "slug": "sapka-kutusunda-kasimpati", "ad": "Şapka kutusunda kasımpatı", "kat": ["kutu"],
+      "fotolar": ["sapka-kutusu-2", "sapka-kutusu-3", "sapka-kutusu-1"], "fiyat": null, "tarih": "Ekim 2026",
+      "metin": "Beyaz, sarı ve mor kasımpatılar siyah silindir kutuda, turuncu kurdeleyle. Vazoya gerek yok; kutusuyla durur.",
+      "alt": "Siyah silindir kutuda beyaz, sarı ve mor kasımpatılar, turuncu kurdeleli"
+    },
+    {
+      "slug": "harf-kutusunda-kirmizi-gul", "ad": "Harf kutusunda kırmızı gül", "kat": ["kutu"],
+      "fotolar": ["harf-kutusu-1", "harf-kutusu-2"], "fiyat": null, "tarih": "Temmuz 2026",
+      "metin": "İstediğiniz harf biçiminde siyah kutu, içinde kırmızı güller. Harfi sipariş notuna yazın.",
+      "icerik": ["İstediğiniz harf", "Kırmızı güller", "Siyah harf kutusu"],
+      "alt": "S harfi biçimindeki siyah kutuda kırmızı güller, akşam ışığında sokakta"
+    },
+    {
+      "slug": "seffaf-cantada-kirmizi-gul", "ad": "Şeffaf çantada kırmızı gül", "kat": ["kutu"],
+      "fotolar": ["seffaf-canta-1"], "fiyat": null, "tarih": "Ekim 2024",
+      "metin": "Kırmızı güller şeffaf taşıma çantasında, kırmızı kurdeleyle. Elde taşıması kolay.",
+      "alt": "Şeffaf taşıma çantasında kırmızı güller, elde taşınırken"
+    },
+    {
+      "slug": "isikli-love-gul-kutusu", "ad": "Işıklı Love gül kutusu", "kat": ["kutu"],
+      "fotolar": ["love-kutu-1"], "fiyat": null, "tarih": "Ekim 2026",
+      "metin": "Üstte kırmızı güller, altta ışıklı Love yazılı çekmecede çikolata.",
+      "icerik": ["Kırmızı güller", "Işıklı Love yazısı", "Çekmecede çikolata"],
+      "alt": "Kırmızı kutuda güller, altındaki çekmecede ışıklı Love yazısı ve çikolatalar"
+    },
+    {
+      "slug": "ayicikli-cekmeceli-gul-kutusu", "ad": "Ayıcıklı çekmeceli gül kutusu", "kat": ["kutu", "ayicikli"],
+      "fotolar": ["cekmeceli-kutu-1", "cekmeceli-kutu-2"], "fiyat": null, "tarih": "Ekim 2026",
+      "metin": "Kırmızı güller ve mini beyaz ayıcıklar siyah kutuda; kalp pencereli çekmecesinde çikolata.",
+      "icerik": ["Kırmızı güller", "Mini peluş ayıcıklar", "Çekmecede çikolata"],
+      "alt": "Siyah çekmeceli kutuda kırmızı güller ve mini beyaz ayıcıklar"
+    },
+    {
+      "slug": "ayicikli-cikolatali-gul-aranjmani", "ad": "Ayıcıklı çikolatalı gül aranjmanı", "kat": ["kutu", "ayicikli"],
+      "fotolar": ["ayicikli-sepet-1", "ayicikli-sepet-2", "ayicikli-sepet-3"], "fiyat": null, "tarih": "Ekim 2026",
+      "metin": "Güller, çikolatalar, kalp balonlar ve beyaz peluş ayıcık bir arada. Karta yazdığınız not ayıcığın üstüne iliştiriliyor.",
+      "icerik": ["Güller", "Çikolatalar", "Kalp balonlar", "Peluş ayıcık"],
+      "alt": "Beyaz peluş ayıcık, güller, çikolatalar ve kalp balonlarla hazırlanmış aranjman"
+    },
+    {
+      "slug": "kalp-cantada-kirmizi-gul", "ad": "Kalp çantada kırmızı gül", "kat": ["kutu"],
+      "fotolar": ["kalp-canta-1"], "fiyat": null, "tarih": "Haziran 2026",
+      "metin": "Kalp biçiminde kırmızı Love çantasında kırmızı güller. 12 Haziran Kırmızı Gül Günü için hazırlandı.",
+      "alt": "Kalp biçiminde kırmızı çantada güller, sokakta elde taşınırken"
+    },
+    {
+      "slug": "ayicikli-gul-aranjmani", "ad": "Ayıcıklı gül aranjmanı", "kat": ["ayicikli", "kutu"],
+      "fotolar": ["posta-kutusu", "dukkan-harita"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "Kutuda pembe ve kırmızı güller, arkasında büyük peluş ayıcık. Fotoğraf dükkânın yanındaki kırmızı posta kutusunun önünde çekildi.",
+      "icerik": ["Pembe ve kırmızı güller", "Büyük peluş ayıcık", "Silindir kutu"],
+      "alt": "Kutuda pembe ve kırmızı güllerin arkasında peluş ayıcık, kırmızı posta kutusunun yanında"
+    },
+    {
+      "slug": "mavi-orkide", "ad": "Mavi orkide", "kat": ["orkide"],
+      "fotolar": ["mavi-orkide-2", "mavi-orkide-1"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "Çift dal mavi orkide, kraft ambalajda. Aydınlık ama doğrudan güneş almayan bir köşede haftalarca çiçekli kalır.",
+      "alt": "Kraft ambalajlı saksıda çift dal mavi orkide"
+    },
+    {
+      "slug": "beyaz-orkide", "ad": "Beyaz orkide", "kat": ["orkide"],
+      "fotolar": ["beyaz-orkide-1"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "Beyaz orkide, kraft ambalajda. Ev ve ofis hediyesi olarak en çok tercih edilen renk.",
+      "alt": "Kraft ambalajlı saksıda beyaz orkide"
+    },
+    {
+      "slug": "lila-orkide", "ad": "Lila orkide", "kat": ["orkide"],
+      "fotolar": ["lila-orkide-1"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "Tek dal lila orkide, bakır rengi ambalajda.",
+      "alt": "Bakır rengi ambalajlı saksıda tek dal lila orkide"
+    },
+    {
+      "slug": "somon-orkide", "ad": "Somon orkide", "kat": ["orkide"],
+      "fotolar": ["somon-orkide-1"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "Çift dal somon ve sarı tonlarında orkide, kraft ambalajda.",
+      "alt": "Kraft ambalajlı saksıda çift dal somon orkide"
+    },
+    {
+      "slug": "hediye-ambalajinda-beyaz-orkide", "ad": "Hediye ambalajında beyaz orkide", "kat": ["orkide"],
+      "fotolar": ["ambalajli-orkide-1", "ambalajli-orkide-2"], "fiyat": null, "tarih": "Ekim 2026",
+      "metin": "Beyaz orkide, şeffaf ve renkli iki katlı hediye ambalajında. Lacivert ve sarı ambalaj seçeneği var.",
+      "alt": "Lacivert hediye ambalajında beyaz orkide, sokakta elde tutulurken"
+    },
+    {
+      "slug": "ayicikli-mini-orkide", "ad": "Ayıcıklı mini orkide", "kat": ["orkide", "ayicikli"],
+      "fotolar": ["mini-orkide-1", "mini-orkide-2", "mini-orkide-3"], "fiyat": 600, "tarih": "Eylül 2026",
+      "metin": "Mini orkide, ayıcık figürlü renkli saksıda. Küçük bir masaya, pencere önüne sığar.",
+      "bakim": "Filtrelenmiş ışığı sever. Kökleri grileşince, yaklaşık haftada bir, saksıyı suya daldırıp süzdürün.",
+      "alt": "Ayıcık figürlü kırmızı saksıda mor mini orkide"
+    },
+    {
+      "slug": "orkide-ve-kasimpati-aranjmani", "ad": "Orkide ve kasımpatı aranjmanı", "kat": ["orkide"],
+      "fotolar": ["bank-orkide"], "fiyat": null, "tarih": "Ekim 2026",
+      "metin": "Pembe orkide ve beyaz kasımpatılar tek kutuda, fuşya kurdeleyle.",
+      "alt": "Kutuda pembe orkide ve beyaz kasımpatılar, Lefkoşa'da sokaktaki bankın üstünde"
+    },
+    {
+      "slug": "saksi-kasimpati", "ad": "Saksı kasımpatı", "kat": ["saksi"],
+      "fotolar": ["saksi-kasimpati-1", "saksi-kasimpati-2", "saksi-kasimpati-3"], "fiyat": 650, "tarih": "Ekim 2026",
+      "metin": "Dolgun, top biçimli saksı kasımpatısı. Mor, lila ve turuncu renkleri var; rengi sipariş notuna yazın.",
+      "bakim": "Bol ışıklı yeri sever. Toprağı hafif nemli tutun, solan çiçekleri koparın; yeni tomurcuklar daha rahat açar.",
+      "alt": "Pembe ambalajlı saksıda mor top kasımpatı"
+    },
+    {
+      "slug": "kahve-bitkisi-hediye-seti", "ad": "Kahve bitkisi hediye seti", "kat": ["saksi"],
+      "fotolar": ["kahve-seti-1"], "fiyat": null, "tarih": "Ağustos 2026",
+      "metin": "Kahve bitkisi, yanında soğuk kahve ve çikolatayla ahşap kasada. Bitkinin tek başına fiyatı saksı listesinde.",
+      "alt": "Ahşap kasada kahve bitkisi, soğuk kahve ve çikolata; arkada Girne limanı"
+    },
+    {
+      "slug": "piyano-saksida-kaktus", "ad": "Piyano saksıda kaktüs", "kat": ["saksi"],
+      "fotolar": ["piyano-kaktus-1", "piyano-kaktus-2"], "fiyat": null, "tarih": "Kasım 2026",
+      "metin": "Pembe piyano biçimli saksıda kaktüs ve sukulentler. Az su ister, uzun yıllar yaşar.",
+      "bakim": "Aydınlık yerde tutun. Toprağı tamamen kurumadan sulamayın.",
+      "alt": "Pembe piyano biçimli saksıda çiçekli kaktüs ve sukulentler"
+    },
+    {
+      "slug": "ayicikli-mini-sukulent", "ad": "Ayıcıklı mini sukulent", "kat": ["saksi", "ayicikli"],
+      "fotolar": ["mini-sukulent-1", "mini-sukulent-2", "mini-sukulent-3"], "fiyat": null, "tarih": "Haziran 2026",
+      "metin": "Renkli kıyafetli ayıcık figürlerinin kucağında mini kaktüs ve sukulentler. Masa üstü için küçük bir hediye.",
+      "bakim": "Aydınlık yerde tutun. Toprağı tamamen kurumadan sulamayın.",
+      "alt": "Pembe saksıyı kucaklayan ayıcık figürü, içinde sukulent"
+    }
+  ],
+  "saksi": [
+    {"grup": "Çiçekli", "ad": "Kasımpatı (papatya tipi)", "fiyat": 500, "tarih": "Kasım 2026", "bakim": "Aydınlık ortamda, doğrudan güneşten korunarak ve toprağı nemli tutularak uzun süre çiçekli kalır."},
+    {"grup": "Çiçekli", "ad": "Kasımpatı (top)", "fiyat": 650, "tarih": "Ekim 2026", "bakim": "Bol ışıklı yeri sever. Toprağı hafif nemli tutun, solan çiçekleri koparın.", "urun": "saksi-kasimpati"},
+    {"grup": "Çiçekli", "ad": "Minyatür gül", "fiyat": 500, "tarih": "Haziran 2026", "bakim": "Düzenli sulama ve bol gün ışığıyla mevsimler boyu tomurcuk verir."},
+    {"grup": "Çiçekli", "ad": "Kalanşo", "not": "Calandiva White", "fiyat": 250, "tarih": "Ağustos 2026", "bakim": "Aydınlık ama direkt güneş almayan yerde durur. Toprağı kurudukça sulayın."},
+    {"grup": "Çiçekli", "ad": "Tavşan kulağı", "not": "Cyclamen", "fiyat": 400, "tarih": "Mart 2026", "bakim": ""},
+    {"grup": "Çiçekli", "ad": "Begonya", "fiyat": 499.99, "ek": "+ KDV", "tarih": "Mart 2026", "bakim": "Özen ister: düzenli sulama, nemli ortam ve iyi drenajlı toprak."},
+    {"grup": "Çiçekli", "ad": "Antoryum", "fiyat": 800, "tarih": "Mart 2026", "bakim": "Aydınlık, doğrudan güneş almayan yeri ve nemli, geçirgen toprağı sever."},
+    {"grup": "Çiçekli", "ad": "Spatifilyum", "not": "Barış çiçeği", "fiyat": 750, "tarih": "Nisan 2026", "bakim": "Düzenli sulama ve iyi drenajlı toprakla formunu korur."},
+    {"grup": "Çiçekli", "ad": "Gala çiçeği", "not": "Gelin çiçeği", "fiyat": 1200, "tarih": "Mart 2026", "bakim": "Nemli toprağı sever; drenajı iyi olmalı. Yarı gölgede durur."},
+    {"grup": "Çiçekli", "ad": "Stefania", "fiyat": 1000, "tarih": "Nisan 2026", "bakim": "Düzenli sulama ve iyi drenajlı toprak ister."},
+    {"grup": "Çiçekli", "ad": "Guzmanya", "not": "Kırmızı yıldız", "fiyat": 1000, "tarih": "Nisan 2026", "bakim": "Bakımı kolaydır; düzenli ama ölçülü sulayın."},
+    {"grup": "Çiçekli", "ad": "Menekşe", "not": "Saintpaulia", "fiyat": 200, "tarih": "Ocak 2026", "bakim": "Işık ve nem dengesi tutarsa yılın her mevsiminde çiçek açar."},
+    {"grup": "Çiçekli", "ad": "Sümbül", "fiyat": 250, "tarih": "Şubat 2026", "bakim": ""},
+    {"grup": "Çiçekli", "ad": "Nergis", "fiyat": 399.99, "tarih": "Şubat 2026", "bakim": "Bakımı kolaydır; ev ve ofis için uygundur."},
+    {"grup": "Yeşil yapraklı", "ad": "Zamia", "not": "Sonsuzluk bitkisi", "fiyat": 1500, "tarih": "Ağustos 2026", "bakim": "Az ışıkta da yaşar. En önemli kural az su: toprağı tamamen kurumadan sulamayın."},
+    {"grup": "Yeşil yapraklı", "ad": "Difenbahya", "fiyat": 1200, "tarih": "Eylül 2026", "bakim": "Aydınlık ve yarı gölge yeri sever. Toprağın üstü kurudukça sulayın, yapraklarına su püskürtün."},
+    {"grup": "Yeşil yapraklı", "ad": "Paşa kılıcı", "not": "İyi şanslar saksısıyla", "fiyat": 1400, "tarih": "Haziran 2026", "bakim": "Susuzluğa dayanıklıdır; az ışıklı köşede de formunu korur."},
+    {"grup": "Yeşil yapraklı", "ad": "Silindir paşa kılıcı", "not": "Sansevieria", "fiyat": 850, "tarih": "Nisan 2026", "bakim": "Seyrek sulamayla yıllarca yaşar."},
+    {"grup": "Yeşil yapraklı", "ad": "Kılıç çiçeği", "fiyat": 600, "tarih": "Ağustos 2026", "bakim": "Her ışık koşuluna uyar. Toprağı tamamen kurumadan sulamayın."},
+    {"grup": "Yeşil yapraklı", "ad": "Calathea", "not": "Dua çiçeği", "fiyat": 700, "tarih": "Ağustos 2026", "bakim": "Aydınlık ama doğrudan güneş almayan yer, düzenli sulama ve yüksek nem ister."},
+    {"grup": "Yeşil yapraklı", "ad": "Calathea", "not": "Tavus kuşu çiçeği", "fiyat": 650, "tarih": "Temmuz 2026", "bakim": "Dolaylı ışığı sever. Düzenli sulama ve nemli ortamla canlı kalır."},
+    {"grup": "Yeşil yapraklı", "ad": "Kahve çiçeği", "fiyat": 850, "tarih": "Mayıs 2026", "bakim": "Aydınlık ama direkt güneş almayan yerde, düzenli ve ölçülü sulamayla gelişir."},
+    {"grup": "Yeşil yapraklı", "ad": "Salon palmiyesi", "fiyat": 500, "tarih": "Ekim 2026", "bakim": "Yarı gölge ya da filtrelenmiş ışık yeter. Toprağın üstü kurudukça sulayın."},
+    {"grup": "Orkide", "ad": "Ayıcıklı mini orkide", "fiyat": 600, "tarih": "Eylül 2026", "bakim": "Filtrelenmiş ışığı sever. Kökleri grileşince saksıyı suya daldırıp süzdürün.", "urun": "ayicikli-mini-orkide"},
+    {"grup": "Orkide", "ad": "Çift dal orkide", "not": "Beyaz-lila", "fiyat": 1500, "tarih": "Mayıs 2026", "bakim": "Aydınlık ortamda, düzenli ve ölçülü sulamayla uzun süre çiçekli kalır."},
+    {"grup": "Kaktüs ve su bitkisi", "ad": "Kaktüs teraryumu", "fiyat": 740, "tarih": "Temmuz 2026", "bakim": "Az su ister. Aydınlık yerde uzun yıllar yaşar."},
+    {"grup": "Kaktüs ve su bitkisi", "ad": "Kedili sukulent bahçesi", "fiyat": 700, "tarih": "Eylül 2026", "bakim": "Aydınlık yeri sever. Toprağı tamamen kurumadan sulamayın."},
+    {"grup": "Kaktüs ve su bitkisi", "ad": "Su marulu", "not": "Tanesi", "fiyat": 60, "tarih": "Haziran 2026", "bakim": "Güneşli ya da yarı gölge suda kolayca gelişir ve çoğalır."}
+  ]
+}
